@@ -7,8 +7,8 @@
 pkg install php git<br>
 git clone https://github.com/elangoverdosis02/spamotp
 <h3>Run :</h3>
-cd SimpleSpamOtp<br>
-php s-SpamOtp.php
+cd spamotp<br>
+php spamotp.php
 </div>
 
 
